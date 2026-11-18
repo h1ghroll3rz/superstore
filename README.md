@@ -2,7 +2,7 @@
 
 End-to-end Financial Planning & Analysis (FP&A) evaluation of **9,994 retail transactions** (**$2.30M** revenue; **$286.4K** gross profit) using **SQL (SQLite)**, **Python (`sqlite3`, `pandas`)**, and **Power BI** to benchmark regional budget variance, audit product-line profitability, and quantify margin erosion from discounting.
 
-![Commercial FP&A Dashboard](fpa_dashboard.png)
+![Commercial FP&A Dashboard](superstore_img.pdf)
 
 ## 1. Business Problem
 High top-line sales can mask severe margin leakage when aggressive discounting goes unmonitored. This project simulates a commercial FP&A review across four US regions and three customer segments (`Consumer`, `Corporate`, `Home Office`) to answer three core questions:
@@ -11,8 +11,8 @@ High top-line sales can mask severe margin leakage when aggressive discounting g
 3. At what discount threshold does transaction gross margin flip negative, and how much profit can be recovered through pricing guardrails?
 
 ## 2. Methodology
-* **Relational Database & ETL (`Python — sqlite3, pandas`):** Automated CSV schema standardisation and ingestion into a local SQLite database (`load_db.py`), plus automated multi-query CSV extraction (`export_pbi.py`) to feed the BI layer.
-* **Analytical SQL (`SQLite — fpa_analysis.sql`):**
+* **Relational Database & ETL (`Python — sqlite3, pandas`):** Automated CSV schema standardisation and ingestion into a local SQLite database (`superstore_db.py`), plus automated multi-query CSV extraction (`export_pbi.py`) to feed the BI layer.
+* **Analytical SQL (`SQLite — superstore_query.sql`):**
   * **Budget Variance Modelling:** Used Common Table Expressions (`CTEs`) and window functions (`AVG() OVER (PARTITION BY region, sub_category)`) to benchmark segment performance against territory-adjusted budget targets (`105%` of regional segment average).
   * **Discount Tier Bucketing:** Engineered five pricing tiers (`0% Full Price` through `40%+ Deep Clearance`) via `CASE WHEN` statements to isolate margin compression.
   * **Defensive Aggregation:** Implemented `NULLIF` division guards and positional grouping to ensure production-safe ratio calculations.
@@ -33,9 +33,9 @@ High top-line sales can mask severe margin leakage when aggressive discounting g
 * **Reprice or Restructure `Tables` & `Bookcases`:** Audit supplier costs and bundle pricing on loss-making Furniture sub-categories rather than relying on deep promotional markdowns to drive volume.
 
 ## 5. Repository Structure & Data Source
-* `load_db.py` — Python ETL script loading `SampleSuperstore.csv` into `superstore_fpa.db`.
-* `fpa_analysis.sql` — Multi-query SQL script for budget variance, discount tier erosion, and sub-category profitability audits.
-* `export_pbi.py` — Script executing `fpa_analysis.sql` and exporting clean tables for Power BI.
-* `fpa_dashboard.pbix` — Interactive Power BI Desktop report file.
-* `fpa_dashboard.png` — High-resolution export of the final dashboard.
+* `superstore_db.py` — Python ETL script loading original CSV file into database for analysis.
+* `superstore_query.sql` — Multi-query SQL script for budget variance, discount tier erosion, and sub-category profitability audits.
+* `export_pbi.py` — Script executing `superstore_query.sql` and exporting clean tables for Power BI.
+* `superstore.pbix` — Interactive Power BI Desktop report file.
+* `superstore_img.png` — High-resolution export of the final dashboard.
 * **Dataset:** [Sample Superstore Dataset (Kaggle)](https://www.kaggle.com/datasets/bravehart101/sample-superstore-dataset)
