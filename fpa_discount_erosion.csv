@@ -1,0 +1,15 @@
+category,discount_tier,line_items,units_sold,total_sales,total_profit,gross_margin_pct
+Furniture,0% (Full Price),836,3224,256025.27,58133.08,22.71
+Furniture,1%–15% (Low),128,511,74192.77,8530.0,11.5
+Furniture,16%–25% (Standard),615,2236,216631.02,6265.95,2.89
+Furniture,26%–40% (Heavy),324,1234,159578.21,-29273.85,-18.34
+Furniture,40%+ (Deep Clearance),218,823,35572.53,-25203.9,-70.85
+Office Supplies,0% (Full Price),3129,11886,442150.0,130506.11,29.52
+Office Supplies,1%–15% (Low),16,55,4324.15,1086.08,25.12
+Office Supplies,16%–25% (Standard),2201,8274,233049.74,38038.75,16.32
+Office Supplies,40%+ (Deep Clearance),680,2691,39523.15,-47140.14,-119.27
+Technology,0% (Full Price),833,3157,389733.2,132348.42,33.96
+Technology,1%–15% (Low),2,5,3410.95,832.08,24.39
+Technology,16%–25% (Standard),841,3150,314913.62,46032.61,14.62
+Technology,26%–40% (Heavy),136,506,74559.68,-6543.61,-8.78
+Technology,40%+ (Deep Clearance),35,121,53536.58,-27214.55,-50.83

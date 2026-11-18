@@ -1,0 +1,204 @@
+region,segment,category,sub_category,line_items,units_sold,actual_sales,budget_sales,sales_var_dollar,sales_var_pct,actual_profit,budget_profit,profit_var_dollar,gross_margin_pct,avg_discount_pct
+Central,Consumer,Furniture,Bookcases,24,95,12960.85,8455.01,4505.84,53.29,-1497.13,1268.25,-2765.38,-11.55,26.08
+Central,Consumer,Furniture,Chairs,81,307,42933.38,29830.73,13102.65,43.92,2920.9,4474.61,-1553.71,6.8,20.0
+Central,Consumer,Furniture,Furnishings,108,399,9499.99,5339.03,4160.96,77.93,-1454.05,800.85,-2254.9,-15.31,41.11
+Central,Consumer,Furniture,Tables,42,151,20835.0,13704.24,7130.76,52.03,-3964.16,2055.64,-6019.8,-19.03,31.19
+Central,Consumer,Office Supplies,Appliances,66,247,9818.72,8253.71,1565.01,18.96,-3775.61,1238.06,-5013.67,-38.45,49.39
+Central,Consumer,Office Supplies,Art,94,374,3272.35,2017.87,1254.48,62.17,605.56,302.68,302.88,18.51,13.62
+Central,Consumer,Office Supplies,Binders,193,769,39693.58,19923.15,19770.43,99.23,1832.32,2988.47,-1156.15,4.62,52.64
+Central,Consumer,Office Supplies,Envelopes,29,99,2365.45,1622.9,742.55,45.75,912.66,243.44,669.22,38.58,12.41
+Central,Consumer,Office Supplies,Fasteners,30,122,422.43,272.31,150.12,55.13,128.15,40.85,87.3,30.34,14.0
+Central,Consumer,Office Supplies,Labels,33,123,743.21,858.02,-114.81,-13.38,334.2,128.7,205.5,44.97,9.7
+Central,Consumer,Office Supplies,Paper,155,586,7564.02,6122.17,1441.85,23.55,2914.64,918.32,1996.32,38.53,12.77
+Central,Consumer,Office Supplies,Storage,119,394,24671.81,16075.54,8596.27,53.47,413.31,2411.33,-1998.02,1.68,12.61
+Central,Consumer,Office Supplies,Supplies,20,63,4559.91,3313.58,1246.33,37.61,-782.09,497.04,-1279.13,-17.15,16.0
+Central,Consumer,Technology,Accessories,101,392,19062.3,11884.62,7177.68,60.39,3743.39,1782.69,1960.7,19.64,13.07
+Central,Consumer,Technology,Copiers,4,14,4519.88,13040.85,-8520.97,-65.34,1482.96,1956.13,-473.17,32.81,15.0
+Central,Consumer,Technology,Machines,8,28,11999.76,9379.08,2620.68,27.94,-1667.03,1406.86,-3073.89,-13.89,33.75
+Central,Consumer,Technology,Phones,105,356,37108.79,25341.15,11767.64,46.44,6416.02,3801.17,2614.85,17.29,12.38
+Central,Corporate,Furniture,Bookcases,18,74,8389.5,8455.01,-65.51,-0.77,-382.71,1268.25,-1650.96,-4.56,21.11
+Central,Corporate,Furniture,Chairs,45,178,27989.55,29830.73,-1841.18,-6.17,3206.88,4474.61,-1267.73,11.46,16.67
+Central,Corporate,Furniture,Furnishings,58,224,3143.96,5339.03,-2195.07,-41.11,-1209.36,800.85,-2010.21,-38.47,40.34
+Central,Corporate,Furniture,Tables,16,66,12562.59,13704.24,-1141.65,-8.33,707.18,2055.64,-1348.46,5.63,19.38
+Central,Corporate,Office Supplies,Appliances,36,134,5224.76,8253.71,-3028.95,-36.7,-459.23,1238.06,-1697.29,-8.79,46.39
+Central,Corporate,Office Supplies,Art,44,177,1478.74,2017.87,-539.13,-26.72,343.97,302.68,41.29,23.26,10.45
+Central,Corporate,Office Supplies,Binders,104,427,8879.54,19923.15,-11043.61,-55.43,-4420.42,2988.47,-7408.89,-49.78,51.54
+Central,Corporate,Office Supplies,Envelopes,15,57,1235.91,1622.9,-386.99,-23.85,483.66,243.44,240.22,39.13,14.67
+Central,Corporate,Office Supplies,Fasteners,18,71,232.11,272.31,-40.2,-14.76,78.56,40.85,37.71,33.85,14.44
+Central,Corporate,Office Supplies,Labels,23,80,1095.11,858.02,237.09,27.63,487.17,128.7,358.47,44.49,14.78
+Central,Corporate,Office Supplies,Paper,112,426,5952.0,6122.17,-170.17,-2.78,2399.23,918.32,1480.91,40.31,13.75
+Central,Corporate,Office Supplies,Storage,54,195,12656.6,16075.54,-3418.94,-21.27,1084.51,2411.33,-1326.82,8.57,13.33
+Central,Corporate,Office Supplies,Supplies,11,38,4382.93,3313.58,1069.35,32.27,101.85,497.04,-395.19,2.32,14.55
+Central,Corporate,Technology,Accessories,51,195,6195.24,11884.62,-5689.38,-47.87,1462.93,1782.69,-319.76,23.61,10.98
+Central,Corporate,Technology,Copiers,8,29,29679.74,13040.85,16638.89,127.59,12789.9,1956.13,10833.77,43.09,12.5
+Central,Corporate,Technology,Machines,7,23,11716.73,9379.08,2337.65,24.92,-361.5,1406.86,-1768.36,-3.09,35.71
+Central,Corporate,Technology,Phones,53,210,17180.8,25341.15,-8160.35,-32.2,2391.28,3801.17,-1409.89,13.92,13.58
+Central,Home Office,Furniture,Bookcases,8,23,2806.82,8455.01,-5648.19,-66.8,-118.07,1268.25,-1386.32,-4.21,19.75
+Central,Home Office,Furniture,Chairs,28,130,14307.72,29830.73,-15523.01,-52.04,464.94,4474.61,-4009.67,3.25,21.43
+Central,Home Office,Furniture,Furnishings,39,135,2610.42,5339.03,-2728.61,-51.11,-1242.81,800.85,-2043.66,-47.61,38.46
+Central,Home Office,Furniture,Tables,14,45,5757.38,13704.24,-7946.86,-57.99,-302.67,2055.64,-2358.31,-5.26,19.29
+Central,Home Office,Office Supplies,Appliances,21,89,8538.55,8253.71,284.84,3.45,1596.22,1238.06,358.16,18.69,28.1
+Central,Home Office,Office Supplies,Art,38,127,1014.25,2017.87,-1003.62,-49.74,245.63,302.68,-57.05,24.22,11.05
+Central,Home Office,Office Supplies,Binders,69,277,8350.17,19923.15,-11572.98,-58.09,1544.47,2988.47,-1444.0,18.5,45.22
+Central,Home Office,Office Supplies,Envelopes,15,50,1035.51,1622.9,-587.39,-36.19,381.2,243.44,137.76,36.81,12.0
+Central,Home Office,Office Supplies,Fasteners,7,34,123.49,272.31,-148.82,-54.65,29.91,40.85,-10.94,24.22,8.57
+Central,Home Office,Office Supplies,Labels,20,81,613.16,858.02,-244.86,-28.54,251.71,128.7,123.01,41.05,10.0
+Central,Home Office,Office Supplies,Paper,54,213,3975.88,6122.17,-2146.29,-35.06,1658.03,918.32,739.71,41.7,11.48
+Central,Home Office,Office Supplies,Storage,37,135,8601.7,16075.54,-7473.84,-46.49,472.02,2411.33,-1939.31,5.49,10.27
+Central,Home Office,Office Supplies,Supplies,5,21,524.53,3313.58,-2789.05,-84.17,18.35,497.04,-478.69,3.5,8.0
+Central,Home Office,Technology,Accessories,31,129,8698.53,11884.62,-3186.09,-26.81,2045.31,1782.69,262.62,23.51,12.9
+Central,Home Office,Technology,Copiers,4,6,3059.94,13040.85,-9980.91,-76.54,1335.98,1956.13,-620.15,43.66,5.0
+Central,Home Office,Technology,Machines,6,15,3080.89,9379.08,-6298.19,-67.15,542.47,1406.86,-864.39,17.61,28.33
+Central,Home Office,Technology,Phones,42,147,18113.7,25341.15,-7227.45,-28.52,3515.73,3801.17,-285.44,19.41,10.0
+East,Consumer,Furniture,Bookcases,39,140,27307.13,15336.77,11970.36,78.05,-2192.07,2300.51,-4492.58,-8.03,23.33
+East,Consumer,Furniture,Chairs,94,387,59645.13,33691.24,25953.89,77.03,4917.4,5053.69,-136.29,8.24,16.17
+East,Consumer,Furniture,Furnishings,137,481,13177.07,10174.99,3002.08,29.5,3021.14,1526.25,1494.89,22.93,8.47
+East,Consumer,Furniture,Tables,33,106,14082.47,13698.93,383.54,2.8,-3708.35,2054.84,-5763.19,-26.33,36.36
+East,Consumer,Office Supplies,Appliances,66,245,19389.76,11965.96,7423.8,62.04,5008.76,1794.89,3213.87,25.83,7.58
+East,Consumer,Office Supplies,Art,117,420,3847.2,2620.02,1227.18,46.84,989.06,393.0,596.06,25.71,7.01
+East,Consumer,Office Supplies,Binders,238,858,31622.61,18724.3,12898.31,68.89,6740.67,2808.65,3932.02,21.32,34.96
+East,Consumer,Office Supplies,Envelopes,39,133,2095.52,1531.56,563.96,36.82,881.88,229.73,652.15,42.08,7.69
+East,Consumer,Office Supplies,Fasteners,29,136,423.7,286.9,136.8,47.68,149.17,43.04,106.13,35.21,6.21
+East,Consumer,Office Supplies,Labels,63,239,1652.8,911.03,741.77,81.42,733.53,136.65,596.88,44.38,5.71
+East,Consumer,Office Supplies,Paper,187,679,8661.27,7060.41,1600.86,22.67,3917.33,1059.06,2858.27,45.23,5.56
+East,Consumer,Office Supplies,Storage,114,398,24994.46,25064.41,-69.95,-0.28,1973.92,3759.66,-1785.74,7.9,7.72
+East,Consumer,Office Supplies,Supplies,35,137,8567.83,3766.04,4801.79,127.5,-1171.64,564.91,-1736.55,-13.67,8.0
+East,Consumer,Technology,Accessories,107,354,22861.06,15761.68,7099.38,45.04,5240.08,2364.25,2875.83,22.92,9.35
+East,Consumer,Technology,Copiers,12,43,30399.71,18626.81,11772.9,63.2,8657.93,2794.02,5863.91,28.48,30.0
+East,Consumer,Technology,Machines,19,77,30668.43,23137.16,7531.27,32.55,-1296.08,3470.57,-4766.65,-4.23,33.16
+East,Consumer,Technology,Phones,140,514,51512.04,35215.25,16296.79,46.28,7328.25,5282.29,2045.96,14.23,15.71
+East,Corporate,Furniture,Bookcases,21,84,13168.93,15336.77,-2167.84,-14.13,964.96,2300.51,-1335.55,7.33,21.43
+East,Corporate,Furniture,Chairs,46,189,23505.23,33691.24,-10186.01,-30.23,2720.59,5053.69,-2333.1,11.57,13.91
+East,Corporate,Furniture,Furnishings,99,341,9983.33,10174.99,-191.66,-1.88,1956.23,1526.25,429.98,19.59,6.06
+East,Corporate,Furniture,Tables,32,109,17551.56,13698.93,3852.63,28.12,-5299.66,2054.84,-7354.5,-30.19,38.13
+East,Corporate,Office Supplies,Appliances,43,162,10981.26,11965.96,-984.7,-8.23,2607.29,1794.89,812.4,23.74,6.98
+East,Corporate,Office Supplies,Art,72,287,2278.4,2620.02,-341.62,-13.04,566.17,393.0,173.17,24.85,7.22
+East,Corporate,Office Supplies,Binders,130,491,12048.38,18724.3,-6675.92,-35.65,2833.0,2808.65,24.35,23.51,36.08
+East,Corporate,Office Supplies,Envelopes,25,97,1579.27,1531.56,47.71,3.12,663.59,229.73,433.86,42.02,8.0
+East,Corporate,Office Supplies,Fasteners,21,116,286.09,286.9,-0.81,-0.28,76.47,43.04,33.43,26.73,11.43
+East,Corporate,Office Supplies,Labels,23,98,508.59,911.03,-402.44,-44.17,218.63,136.65,81.98,42.99,6.96
+East,Corporate,Office Supplies,Paper,102,385,5975.12,7060.41,-1085.29,-15.37,2668.96,1059.06,1609.9,44.67,6.27
+East,Corporate,Office Supplies,Storage,90,356,30968.37,25064.41,5903.96,23.56,3836.46,3759.66,76.8,12.39,6.89
+East,Corporate,Office Supplies,Supplies,14,43,1849.26,3766.04,-1916.78,-50.9,-12.9,564.91,-577.81,-0.7,4.29
+East,Corporate,Technology,Accessories,56,222,11748.0,15761.68,-4013.68,-25.46,2933.59,2364.25,569.34,24.97,8.57
+East,Corporate,Technology,Copiers,4,11,4219.91,18626.81,-14406.9,-77.34,1134.98,2794.02,-1659.04,26.9,25.0
+East,Corporate,Technology,Machines,12,63,23892.04,23137.16,754.88,3.26,2624.6,3470.57,-845.97,10.99,35.0
+East,Corporate,Technology,Phones,87,304,29865.62,35215.25,-5349.63,-15.19,3129.62,5282.29,-2152.67,10.48,15.17
+East,Home Office,Furniture,Bookcases,10,28,3343.27,15336.77,-11993.5,-78.2,59.47,2300.51,-2241.04,1.78,18.0
+East,Home Office,Furniture,Chairs,28,100,13110.32,33691.24,-20580.92,-61.09,1719.79,5053.69,-3333.9,13.12,13.21
+East,Home Office,Furniture,Furnishings,47,193,5910.99,10174.99,-4264.0,-41.91,904.04,1526.25,-622.21,15.29,9.36
+East,Home Office,Furniture,Tables,15,56,7505.78,13698.93,-6193.15,-45.21,-2017.37,2054.84,-4072.21,-26.88,38.0
+East,Home Office,Office Supplies,Appliances,17,67,3817.45,11965.96,-8148.51,-68.1,775.37,1794.89,-1019.52,20.31,7.06
+East,Home Office,Office Supplies,Art,39,142,1360.16,2620.02,-1259.86,-48.09,344.71,393.0,-48.29,25.34,6.15
+East,Home Office,Office Supplies,Binders,72,303,9827.01,18724.3,-8897.29,-47.52,1694.26,2808.65,-1114.39,17.24,35.28
+East,Home Office,Office Supplies,Envelopes,10,37,701.09,1531.56,-830.47,-54.22,266.94,229.73,37.21,38.07,10.0
+East,Home Office,Office Supplies,Fasteners,11,46,109.93,286.9,-176.97,-61.68,38.35,43.04,-4.69,34.89,12.73
+East,Home Office,Office Supplies,Labels,21,83,441.55,911.03,-469.48,-51.53,177.12,136.65,40.47,40.11,9.52
+East,Home Office,Office Supplies,Paper,89,336,5536.22,7060.41,-1524.19,-21.59,2429.08,1059.06,1370.02,43.88,8.54
+East,Home Office,Office Supplies,Storage,38,153,15649.76,25064.41,-9414.65,-37.56,2578.99,3759.66,-1180.67,16.48,5.79
+East,Home Office,Office Supplies,Supplies,7,15,343.03,3766.04,-3423.01,-90.89,29.4,564.91,-535.51,8.57,5.71
+East,Home Office,Technology,Accessories,43,148,10424.32,15761.68,-5337.36,-33.86,3022.19,2364.25,657.94,28.99,6.51
+East,Home Office,Technology,Copiers,4,17,18599.84,18626.81,-26.97,-0.14,7229.93,2794.02,4435.91,38.87,10.0
+East,Home Office,Technology,Machines,6,25,11545.7,23137.16,-11591.46,-50.1,5600.13,3470.57,2129.56,48.5,0.0
+East,Home Office,Technology,Phones,45,164,19237.33,35215.25,-15977.92,-45.37,1856.81,5282.29,-3425.48,9.65,18.67
+South,Consumer,Furniture,Bookcases,19,85,8716.56,3814.78,4901.78,128.49,1220.01,572.22,647.79,14.0,8.42
+South,Consumer,Furniture,Chairs,53,195,26804.23,15811.76,10992.47,69.52,4017.03,2371.76,1645.27,14.99,8.68
+South,Consumer,Furniture,Furnishings,81,296,10870.57,6057.34,4813.23,79.46,1957.19,908.6,1048.59,18.0,10.37
+South,Consumer,Furniture,Tables,27,119,24408.84,15370.67,9038.17,58.8,-2577.5,2305.6,-4883.1,-10.56,20.37
+South,Consumer,Office Supplies,Appliances,46,178,8287.35,6833.87,1453.48,21.27,1455.26,1025.08,430.18,17.56,11.3
+South,Consumer,Office Supplies,Art,81,312,2654.76,1629.47,1025.29,62.92,648.45,244.42,404.03,24.43,9.88
+South,Consumer,Office Supplies,Binders,111,429,18617.7,12960.62,5657.08,43.65,1583.93,1944.09,-360.16,8.51,37.84
+South,Consumer,Office Supplies,Envelopes,26,92,1191.56,1170.94,20.62,1.76,503.43,175.64,327.79,42.25,10.0
+South,Consumer,Office Supplies,Fasteners,13,60,276.42,176.16,100.26,56.91,114.27,26.42,87.85,41.34,6.15
+South,Consumer,Office Supplies,Labels,30,94,1868.22,823.61,1044.61,126.83,840.9,123.54,717.36,45.01,10.0
+South,Consumer,Office Supplies,Paper,119,443,7603.27,4952.84,2650.43,53.51,3085.34,742.93,2342.41,40.58,11.26
+South,Consumer,Office Supplies,Storage,66,252,16881.75,12518.82,4362.93,34.85,888.67,1877.82,-989.15,5.26,8.79
+South,Consumer,Office Supplies,Supplies,13,39,2123.55,2911.62,-788.07,-27.07,69.86,436.74,-366.88,3.29,12.31
+South,Consumer,Technology,Accessories,70,265,11651.56,9546.86,2104.7,22.05,2788.31,1432.03,1356.28,23.93,9.43
+South,Consumer,Technology,Copiers,4,14,4439.87,4882.37,-442.5,-9.06,1783.95,732.36,1051.59,40.18,10.0
+South,Consumer,Technology,Machines,11,36,18338.55,18861.84,-523.29,-2.77,2910.56,2829.28,81.28,15.87,27.27
+South,Consumer,Technology,Phones,68,269,30846.2,20406.55,10439.65,51.16,5623.91,3060.98,2562.93,18.23,9.71
+South,Corporate,Furniture,Bookcases,5,20,1153.8,3814.78,-2660.98,-69.75,68.37,572.22,-503.85,5.93,16.0
+South,Corporate,Furniture,Chairs,26,102,11366.87,15811.76,-4444.89,-28.11,1183.95,2371.76,-1187.81,10.42,13.08
+South,Corporate,Furniture,Furnishings,54,214,4504.68,6057.34,-1552.66,-25.63,1087.93,908.6,179.33,24.15,12.96
+South,Corporate,Furniture,Tables,16,79,12619.68,15370.67,-2750.99,-17.9,-1388.22,2305.6,-3693.82,-11.0,25.94
+South,Corporate,Office Supplies,Appliances,30,100,10123.64,6833.87,3289.77,48.14,2543.82,1025.08,1518.74,25.13,10.67
+South,Corporate,Office Supplies,Art,40,157,1332.4,1629.47,-297.07,-18.23,264.25,244.42,19.83,19.83,10.5
+South,Corporate,Office Supplies,Binders,87,365,11827.63,12960.62,-1132.99,-8.74,2496.2,1944.09,552.11,21.1,38.62
+South,Corporate,Office Supplies,Envelopes,21,90,1470.9,1170.94,299.96,25.62,643.38,175.64,467.74,43.74,5.71
+South,Corporate,Office Supplies,Fasteners,7,36,80.63,176.16,-95.53,-54.23,27.57,26.42,1.15,34.19,14.29
+South,Corporate,Office Supplies,Labels,23,87,365.23,823.61,-458.38,-55.65,150.44,123.54,26.9,41.19,10.43
+South,Corporate,Office Supplies,Paper,65,256,3345.32,4952.84,-1607.52,-32.46,1410.06,742.93,667.13,42.15,9.23
+South,Corporate,Office Supplies,Storage,40,150,11362.26,12518.82,-1156.56,-9.24,718.57,1877.82,-1159.25,6.32,9.5
+South,Corporate,Office Supplies,Supplies,11,40,6022.15,2911.62,3110.53,106.83,-111.64,436.74,-548.38,-1.85,9.09
+South,Corporate,Technology,Accessories,34,129,10175.46,9546.86,628.6,6.58,3085.48,1432.03,1653.45,30.32,5.88
+South,Corporate,Technology,Copiers,3,12,4859.89,4882.37,-22.48,-0.46,1874.96,732.36,1142.6,38.58,6.67
+South,Corporate,Technology,Machines,4,15,12001.15,18861.84,-6860.69,-36.37,-2520.12,2829.28,-5349.4,-21.0,37.5
+South,Corporate,Technology,Phones,44,164,19274.23,20406.55,-1132.32,-5.55,3680.21,3060.98,619.23,19.09,11.36
+South,Home Office,Furniture,Bookcases,4,13,1029.0,3814.78,-2785.78,-73.03,51.11,572.22,-521.11,4.97,10.0
+South,Home Office,Furniture,Chairs,9,34,7005.35,15811.76,-8806.41,-55.7,1411.1,2371.76,-960.66,20.14,6.67
+South,Home Office,Furniture,Furnishings,30,105,1931.43,6057.34,-4125.91,-68.11,397.56,908.6,-511.04,20.58,7.33
+South,Home Office,Furniture,Tables,8,29,6887.67,15370.67,-8483.0,-55.19,-657.33,2305.6,-2962.93,-9.54,21.25
+South,Home Office,Office Supplies,Appliances,5,15,1114.34,6833.87,-5719.53,-83.69,124.85,1025.08,-900.23,11.2,12.0
+South,Home Office,Office Supplies,Art,21,78,668.46,1629.47,-961.01,-58.98,145.88,244.42,-98.54,21.82,10.48
+South,Home Office,Office Supplies,Binders,48,187,6585.01,12960.62,-6375.61,-49.19,-179.46,1944.09,-2123.55,-2.73,35.0
+South,Home Office,Office Supplies,Envelopes,7,24,683.09,1170.94,-487.85,-41.66,318.67,175.64,143.03,46.65,2.86
+South,Home Office,Office Supplies,Fasteners,9,30,146.27,176.16,-29.89,-16.97,31.88,26.42,5.46,21.8,6.67
+South,Home Office,Office Supplies,Labels,12,35,119.73,823.61,-703.88,-85.46,49.43,123.54,-74.11,41.28,13.33
+South,Home Office,Office Supplies,Paper,37,152,3202.39,4952.84,-1750.45,-35.34,1451.66,742.93,708.73,45.33,8.65
+South,Home Office,Office Supplies,Storage,22,86,7524.06,12518.82,-4994.76,-39.9,667.06,1877.82,-1210.76,8.87,10.0
+South,Home Office,Office Supplies,Supplies,5,13,173.22,2911.62,-2738.4,-94.05,43.66,436.74,-393.08,25.2,8.0
+South,Home Office,Technology,Accessories,24,110,5449.73,9546.86,-4097.13,-42.92,1130.76,1432.03,-301.27,20.75,10.0
+South,Home Office,Technology,Machines,3,11,23551.26,18861.84,4689.42,24.86,-1829.33,2829.28,-4658.61,-7.77,50.0
+South,Home Office,Technology,Phones,28,93,8184.0,20406.55,-12222.55,-59.9,1463.15,3060.98,-1597.83,17.88,8.57
+West,Consumer,Furniture,Bookcases,49,176,19648.18,12601.45,7046.73,55.92,-1966.46,1890.22,-3856.68,-10.01,24.59
+West,Consumer,Furniture,Chairs,101,345,43480.01,35623.47,7856.54,22.05,1380.0,5343.52,-3963.52,3.17,20.0
+West,Consumer,Furniture,Furnishings,168,658,16072.41,10525.45,5546.96,52.7,4395.15,1578.82,2816.33,27.35,2.86
+West,Consumer,Furniture,Tables,57,226,40607.49,29664.1,10943.39,36.89,521.97,4449.61,-3927.64,1.29,20.53
+West,Consumer,Office Supplies,Appliances,66,238,15323.75,10582.72,4741.03,44.8,4293.51,1587.41,2706.1,28.02,2.12
+West,Consumer,Office Supplies,Art,136,519,4477.62,3224.22,1253.4,38.87,1211.22,483.63,727.59,27.05,3.53
+West,Consumer,Office Supplies,Binders,238,959,28227.12,19586.39,8640.73,44.12,7838.68,2937.96,4900.72,27.77,28.4
+West,Consumer,Office Supplies,Envelopes,35,118,2118.62,1441.33,677.29,46.99,966.44,216.2,750.24,45.62,5.71
+West,Consumer,Office Supplies,Fasteners,42,155,558.4,323.13,235.27,72.81,185.21,48.47,136.74,33.17,1.9
+West,Consumer,Office Supplies,Labels,63,259,2445.03,1777.56,667.47,37.55,1167.35,266.63,900.72,47.74,1.27
+West,Consumer,Office Supplies,Paper,232,894,12495.81,9332.3,3163.51,33.9,5617.34,1399.85,4217.49,44.95,3.19
+West,Consumer,Office Supplies,Storage,151,575,33944.39,24686.5,9257.89,37.5,3828.3,3702.98,125.32,11.28,3.31
+West,Consumer,Office Supplies,Supplies,32,120,10490.2,6344.49,4145.71,65.34,226.32,951.67,-725.35,2.16,4.38
+West,Consumer,Technology,Accessories,130,567,33530.31,21389.94,12140.37,56.76,8964.15,3208.49,5755.66,26.73,4.0
+West,Consumer,Technology,Copiers,15,46,30459.61,17412.23,13047.38,74.93,12158.87,2611.84,9547.03,39.92,14.67
+West,Consumer,Technology,Machines,19,76,18536.08,14855.44,3680.64,24.78,2193.62,2228.32,-34.7,11.83,25.26
+West,Consumer,Technology,Phones,138,546,50465.74,34539.53,15926.21,46.11,4468.93,5180.93,-712.0,8.86,20.0
+West,Corporate,Furniture,Bookcases,20,93,11293.69,12601.45,-1307.76,-10.38,-12.17,1890.22,-1902.39,-0.11,24.5
+West,Corporate,Furniture,Chairs,71,250,36279.22,35623.47,655.75,1.84,1233.23,5343.52,-4110.29,3.4,20.0
+West,Corporate,Furniture,Furnishings,77,307,7369.3,10525.45,-3156.15,-29.99,1673.4,1578.82,94.58,22.71,3.9
+West,Corporate,Furniture,Tables,42,165,28137.89,29664.1,-1526.21,-5.14,1074.2,4449.61,-3375.41,3.82,19.29
+West,Corporate,Office Supplies,Appliances,46,173,10259.02,10582.72,-323.7,-3.06,2738.02,1587.41,1150.61,26.69,3.91
+West,Corporate,Office Supplies,Art,62,229,3500.9,3224.22,276.68,8.58,830.25,483.63,346.62,23.72,2.58
+West,Corporate,Office Supplies,Binders,152,565,18804.76,19586.39,-781.63,-3.99,5468.54,2937.96,2530.58,29.08,26.91
+West,Corporate,Office Supplies,Envelopes,23,79,1656.59,1441.33,215.26,14.93,780.6,216.2,564.4,47.12,1.74
+West,Corporate,Office Supplies,Fasteners,13,50,184.45,323.13,-138.68,-42.92,69.31,48.47,20.84,37.58,9.23
+West,Corporate,Office Supplies,Labels,33,133,2132.73,1777.56,355.17,19.98,904.59,266.63,637.96,42.41,3.03
+West,Corporate,Office Supplies,Paper,129,488,8610.69,9332.3,-721.61,-7.73,3883.29,1399.85,2483.44,45.1,3.57
+West,Corporate,Office Supplies,Storage,76,299,24803.77,24686.5,117.27,0.48,3491.49,3702.98,-211.49,14.08,2.89
+West,Corporate,Office Supplies,Supplies,25,81,7180.94,6344.49,836.45,13.18,361.61,951.67,-590.06,5.04,2.4
+West,Corporate,Technology,Accessories,86,335,20071.87,21389.94,-1318.07,-6.16,5225.48,3208.49,2016.99,26.03,3.02
+West,Corporate,Technology,Copiers,5,18,8069.84,17412.23,-9342.39,-53.65,3190.44,2611.84,578.6,39.54,16.0
+West,Corporate,Technology,Machines,12,40,12666.83,14855.44,-2188.61,-14.73,960.04,2228.32,-1268.28,7.58,32.5
+West,Corporate,Technology,Phones,88,325,24832.77,34539.53,-9706.76,-28.1,2565.11,5180.93,-2615.82,10.33,20.0
+West,Home Office,Furniture,Bookcases,11,37,5062.26,12601.45,-7539.19,-59.83,332.11,1890.22,-1558.11,6.56,12.27
+West,Home Office,Furniture,Chairs,35,139,22022.1,35623.47,-13601.37,-38.18,1414.35,5343.52,-3929.17,6.42,20.0
+West,Home Office,Furniture,Furnishings,59,210,6631.01,10525.45,-3894.44,-37.0,1572.72,1578.82,-6.1,23.72,3.73
+West,Home Office,Furniture,Tables,17,90,16009.18,29664.1,-13654.92,-46.03,-113.56,4449.61,-4563.17,-0.71,20.0
+West,Home Office,Office Supplies,Appliances,24,81,4653.56,10582.72,-5929.16,-56.03,1229.74,1587.41,-357.67,26.43,4.17
+West,Home Office,Office Supplies,Art,52,178,1233.54,3224.22,-1990.68,-61.74,332.62,483.63,-151.01,26.96,2.69
+West,Home Office,Office Supplies,Binders,81,344,8929.23,19586.39,-10657.16,-54.41,2789.58,2937.96,-148.38,31.24,29.88
+West,Home Office,Office Supplies,Envelopes,9,30,342.89,1441.33,-1098.44,-76.21,161.72,216.2,-54.48,47.16,4.44
+West,Home Office,Office Supplies,Fasteners,17,58,180.37,323.13,-142.76,-44.18,20.68,48.47,-27.79,11.47,2.35
+West,Home Office,Office Supplies,Labels,20,88,500.97,1777.56,-1276.59,-71.82,231.18,266.63,-35.45,46.15,2.0
+West,Home Office,Office Supplies,Paper,89,320,5557.22,9332.3,-3775.08,-40.45,2618.6,1399.85,1218.75,47.12,2.47
+West,Home Office,Office Supplies,Storage,39,165,11784.7,24686.5,-12901.8,-52.26,1325.54,3702.98,-2377.44,11.25,2.56
+West,Home Office,Office Supplies,Supplies,12,37,455.97,6344.49,-5888.52,-92.81,38.12,951.67,-913.55,8.36,5.0
+West,Home Office,Technology,Accessories,42,130,7511.93,21389.94,-13878.01,-64.88,2294.97,3208.49,-913.52,30.55,3.81
+West,Home Office,Technology,Copiers,5,24,11219.79,17412.23,-6192.44,-35.56,3977.93,2611.84,1366.09,35.45,12.0
+West,Home Office,Technology,Machines,8,31,11241.21,14855.44,-3614.23,-24.33,-3772.58,2228.32,-6000.9,-33.56,38.75
+West,Home Office,Technology,Phones,51,197,23385.85,34539.53,-11153.68,-32.29,2076.7,5180.93,-3104.23,8.88,20.0
